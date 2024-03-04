@@ -39,7 +39,7 @@ jobs:
         name: json-artifact
         path: ${{ github.workspace }}/sliverkiss.icons.json
 
-    - name: Push to icons Repository
+    - name: Push to QuantumultX Repository
       run: |
         git config user.name "${{ github.actor }}"
         git config user.email "${{ github.actor }}@users.noreply.github.com"
