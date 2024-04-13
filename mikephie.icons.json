@@ -19,8 +19,16 @@
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/jp.png"
     },
     {
+      "name": "id.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/id.png"
+    },
+    {
       "name": "hk.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/hk.png"
+    },
+    {
+      "name": "uk.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/uk.png"
     }
   ]
 }
