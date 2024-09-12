@@ -3,14 +3,6 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "itunes.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/itunes.png"
-    },
-    {
-      "name": "aimirror.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aimirror.png"
-    },
-    {
       "name": "flightradar24.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/flightradar24.png"
     },
