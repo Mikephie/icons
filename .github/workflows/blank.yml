@@ -1,20 +1,12 @@
-To update your workflow and fix the deprecated `actions/upload-artifact: v2`, you will need to change the following:
-
-1. Update the `actions/upload-artifact@v2` to `actions/upload-artifact@v3`.
-2. Also, you can update other actions to their latest versions, such as `actions/checkout@v3` and `actions/setup-python@v4`.
-
-Here’s your modified workflow:
-
-```yaml
 name: Image Workflow
 
 on:
   push:
     paths:
-      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**'  # 监视 icons 文件夹及其子文件夹下的内容
   pull_request:
     paths:
-      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**'  # 监视 icons 文件夹及其子文件夹下的内容
   workflow_dispatch:
 
 jobs:
@@ -56,11 +48,3 @@ jobs:
         git push origin HEAD:main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-### Changes made:
-- Updated `actions/checkout@v2` to `actions/checkout@v3`.
-- Updated `actions/setup-python@v2` to `actions/setup-python@v4`.
-- Updated `actions/upload-artifact@v2` to `actions/upload-artifact@v3`.
-
-This should resolve the deprecation issue and ensure your workflow is using the latest versions. Let me know if you need further adjustments!
