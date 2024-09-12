@@ -3,10 +3,10 @@ name: Image Workflow
 on:
   push:
     paths:
-      - 'icon/**'  # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
   pull_request:
     paths:
-      - 'icon/**'  # 监视 icons 文件夹及其子文件夹下的内容
+      - 'icon/**' # 监视 icons 文件夹及其子文件夹下的内容
   workflow_dispatch:
 
 jobs:
@@ -15,10 +15,10 @@ jobs:
 
     steps:
     - name: Checkout repository
-      uses: actions/checkout@v3
+      uses: actions/checkout@v2
 
     - name: Set up Python
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v2
       with:
         python-version: '3.x'
 
