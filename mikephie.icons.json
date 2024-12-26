@@ -3,220 +3,124 @@
   "description": "收集一些自己脚本用到的图标",
   "icons": [
     {
-      "name": "chatonai.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/chatonai.png"
-    },
-    {
-      "name": "aloha.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aloha.png"
-    },
-    {
-      "name": "dreamface.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/dreamface.png"
-    },
-    {
-      "name": "disney.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/disney.png"
-    },
-    {
-      "name": "bzg.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bzg.png"
-    },
-    {
-      "name": "rwmm.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/rwmm.png"
-    },
-    {
-      "name": "bksyds.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bksyds.png"
-    },
-    {
-      "name": "currency.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/currency.png"
-    },
-    {
-      "name": "cn.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/cn.png"
-    },
-    {
-      "name": "365video.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/365video.png"
-    },
-    {
-      "name": "updf.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/updf.png"
-    },
-    {
-      "name": "pdd.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/pdd.png"
-    },
-    {
-      "name": "shunlink.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/shunlink.png"
-    },
-    {
-      "name": "newhaigui.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/newhaigui.png"
-    },
-    {
-      "name": "id.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/id.png"
-    },
-    {
-      "name": "hk.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/hk.png"
-    },
-    {
-      "name": "bilibili.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bilibili.png"
-    },
-    {
-      "name": "grammarly.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/grammarly.png"
-    },
-    {
-      "name": "telegram.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/telegram.png"
-    },
-    {
-      "name": "classdojo.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/classdojo.png"
-    },
-    {
-      "name": "felo.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/felo.png"
-    },
-    {
-      "name": "itunes.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/itunes.png"
-    },
-    {
-      "name": "sdvpn.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/sdvpn.png"
-    },
-    {
-      "name": "adapty.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/adapty.png"
-    },
-    {
-      "name": "tpzwz.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tpzwz.png"
-    },
-    {
-      "name": "aichat.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aichat.png"
-    },
-    {
-      "name": "duetdisplay.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/duetdisplay.png"
-    },
-    {
       "name": "sjsm.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/sjsm.png"
     },
     {
-      "name": "bizhi.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bizhi.png"
-    },
-    {
-      "name": "revenuecat.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/revenuecat.png"
-    },
-    {
-      "name": "flightradar24.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/flightradar24.png"
-    },
-    {
-      "name": "spotify.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/spotify.png"
-    },
-    {
-      "name": "my.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/my.png"
-    },
-    {
-      "name": "blueapple.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/blueapple.png"
-    },
-    {
-      "name": "onedrive.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/onedrive.png"
-    },
-    {
-      "name": "askai.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/askai.png"
+      "name": "chipper.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/chipper.png"
     },
     {
       "name": "global.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/global.png"
     },
     {
-      "name": "66ringtone.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/66ringtone.png"
+      "name": "aichat.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aichat.png"
     },
     {
-      "name": "syb.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/syb.png"
+      "name": "365video.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/365video.png"
     },
     {
-      "name": "aimirror.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aimirror.png"
-    },
-    {
-      "name": "kugou.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/kugou.png"
-    },
-    {
-      "name": "paperwork.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/paperwork.png"
-    },
-    {
-      "name": "grammarlycs.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/grammarlycs.png"
-    },
-    {
-      "name": "flyingbird.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/flyingbird.png"
-    },
-    {
-      "name": "google.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/google.png"
-    },
-    {
-      "name": "pikpak.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/pikpak.png"
-    },
-    {
-      "name": "tw.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tw.png"
-    },
-    {
-      "name": "ag.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/ag.png"
-    },
-    {
-      "name": "test.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/test.png"
-    },
-    {
-      "name": "qjsm.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/qjsm.png"
-    },
-    {
-      "name": "scds.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/scds.png"
-    },
-    {
-      "name": "wshb.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/wshb.png"
+      "name": "haigui.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/haigui.png"
     },
     {
       "name": "youtube.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/youtube.png"
     },
     {
+      "name": "tk.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tk.png"
+    },
+    {
+      "name": "classdojo.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/classdojo.png"
+    },
+    {
+      "name": "sdvpn.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/sdvpn.png"
+    },
+    {
+      "name": "dreamface.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/dreamface.png"
+    },
+    {
+      "name": "apphub.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/apphub.png"
+    },
+    {
+      "name": "bizhi.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bizhi.png"
+    },
+    {
+      "name": "grammarly.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/grammarly.png"
+    },
+    {
+      "name": "syqnw.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/syqnw.png"
+    },
+    {
       "name": "mikephie.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/mikephie.png"
+    },
+    {
+      "name": "newhaigui.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/newhaigui.png"
+    },
+    {
+      "name": "disney.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/disney.png"
+    },
+    {
+      "name": "snow.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/snow.png"
+    },
+    {
+      "name": "chatonai.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/chatonai.png"
+    },
+    {
+      "name": "flightradar24.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/flightradar24.png"
+    },
+    {
+      "name": "ringtonemaker.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/ringtonemaker.png"
+    },
+    {
+      "name": "hk.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/hk.png"
+    },
+    {
+      "name": "jp.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/jp.png"
+    },
+    {
+      "name": "felo.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/felo.png"
+    },
+    {
+      "name": "wshb.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/wshb.png"
+    },
+    {
+      "name": "telegram.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/telegram.png"
+    },
+    {
+      "name": "bksyds.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bksyds.png"
+    },
+    {
+      "name": "ag.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/ag.png"
+    },
+    {
+      "name": "updf.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/updf.png"
     },
     {
       "name": "zypg.png",
@@ -227,16 +131,72 @@
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/documents.png"
     },
     {
-      "name": "hbqj.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/hbqj.png"
+      "name": "flyingbird.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/flyingbird.png"
+    },
+    {
+      "name": "proxy.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/proxy.png"
+    },
+    {
+      "name": "rwmm.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/rwmm.png"
+    },
+    {
+      "name": "spotify.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/spotify.png"
+    },
+    {
+      "name": "paperwork.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/paperwork.png"
+    },
+    {
+      "name": "jscode.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/jscode.png"
+    },
+    {
+      "name": "duetdisplay.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/duetdisplay.png"
+    },
+    {
+      "name": "bilibili.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bilibili.png"
     },
     {
       "name": "emby.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/emby.png"
     },
     {
-      "name": "jp.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/jp.png"
+      "name": "mangotv.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/mangotv.png"
+    },
+    {
+      "name": "onedrive.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/onedrive.png"
+    },
+    {
+      "name": "uk.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/uk.png"
+    },
+    {
+      "name": "grammarlycs.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/grammarlycs.png"
+    },
+    {
+      "name": "scds.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/scds.png"
+    },
+    {
+      "name": "id.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/id.png"
+    },
+    {
+      "name": "us.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/us.png"
+    },
+    {
+      "name": "blueapple.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/blueapple.png"
     },
     {
       "name": "kuwo.png",
@@ -247,72 +207,116 @@
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/office.png"
     },
     {
-      "name": "apphub.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/apphub.png"
+      "name": "bzg.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/bzg.png"
     },
     {
-      "name": "proxy.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/proxy.png"
+      "name": "adapty.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/adapty.png"
     },
     {
-      "name": "boxjs.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/boxjs.png"
+      "name": "kugou.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/kugou.png"
     },
     {
-      "name": "haigui.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/haigui.png"
+      "name": "cn.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/cn.png"
     },
     {
-      "name": "cdsy.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/cdsy.png"
+      "name": "google.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/google.png"
     },
     {
-      "name": "GP4o.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/GP4o.png"
-    },
-    {
-      "name": "uk.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/uk.png"
-    },
-    {
-      "name": "chipper.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/chipper.png"
-    },
-    {
-      "name": "mangotv.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/mangotv.png"
-    },
-    {
-      "name": "snow.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/snow.png"
+      "name": "tpzwz.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tpzwz.png"
     },
     {
       "name": "zmbz.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/zmbz.png"
     },
     {
+      "name": "66ringtone.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/66ringtone.png"
+    },
+    {
+      "name": "test.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/test.png"
+    },
+    {
+      "name": "hbqj.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/hbqj.png"
+    },
+    {
+      "name": "tw.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tw.png"
+    },
+    {
+      "name": "shunlink.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/shunlink.png"
+    },
+    {
+      "name": "my.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/my.png"
+    },
+    {
+      "name": "itunes.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/itunes.png"
+    },
+    {
+      "name": "syb.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/syb.png"
+    },
+    {
       "name": "netflix.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/netflix.png"
     },
     {
-      "name": "syqnw.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/syqnw.png"
+      "name": "askai.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/askai.png"
     },
     {
-      "name": "ringtonemaker.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/ringtonemaker.png"
+      "name": "GP4o.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/GP4o.png"
     },
     {
-      "name": "us.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/us.png"
+      "name": "cdsy.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/cdsy.png"
     },
     {
-      "name": "tk.png",
-      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/tk.png"
+      "name": "aimirror.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aimirror.png"
+    },
+    {
+      "name": "aloha.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/aloha.png"
+    },
+    {
+      "name": "pdd.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/pdd.png"
+    },
+    {
+      "name": "boxjs.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/boxjs.png"
+    },
+    {
+      "name": "currency.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/currency.png"
+    },
+    {
+      "name": "qjsm.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/qjsm.png"
+    },
+    {
+      "name": "pikpak.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/pikpak.png"
     },
     {
       "name": "sg.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/sg.png"
+    },
+    {
+      "name": "revenuecat.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/revenuecat.png"
     }
   ]
 }
