@@ -67,12 +67,20 @@
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/channel8.png"
     },
     {
+      "name": "astrosport.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/astrosport.png"
+    },
+    {
       "name": "chipper.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/chipper.png"
     },
     {
       "name": "proxy.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/proxy.png"
+    },
+    {
+      "name": "eurosport1.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/eurosport1.png"
     },
     {
       "name": "emby.png",
@@ -309,6 +317,10 @@
     {
       "name": "myshiftplanner.png",
       "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/myshiftplanner.png"
+    },
+    {
+      "name": "eurosport2.png",
+      "url": "https://raw.githubusercontent.com/Mikephie/icons/main/icon/eurosport2.png"
     },
     {
       "name": "blueapple.png",
